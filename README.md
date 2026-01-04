@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Data-Engineering-Weekend-Getaway-Ranker
-=======
+
 ## Weekend Getaway Ranker
 
 **A Data Engineering Recommendation System (Python Project)** 
@@ -24,19 +22,19 @@ Git & GitHub – Version control and submission
 
 ## Key Features
 
-🏙️ City-based destination filtering
+ City-based destination filtering
 
-⭐ Ranking based on Google review ratings
+ Ranking based on Google review ratings
 
-🔥 Popularity-based scoring using review counts
+ Popularity-based scoring using review counts
 
-⚖️ Normalized scoring for fair comparison
+ Normalized scoring for fair comparison
 
-🧹 Data cleaning and preprocessing
+ Data cleaning and preprocessing
 
-📄 Command-line based interaction
+ Command-line based interaction
 
-📦 Lightweight and dependency-minimal
+ Lightweight and dependency-minimal
 
 ##  How It Works
 
@@ -84,10 +82,11 @@ python src/getaway_ranker.py
 ```
 
 ## Enter a source city when prompted, for example:
-```text
 
-📌 Sample Output
- Source City: Kolkata
+ Sample Output
+
+ ```text
+Source City: Kolkata
 Howrah Bridge | Rating: 4.6 | Reviews: 1.2 lakh
 Dakshineswar Kali Temple | Rating: 4.7 | Reviews: 0.82 lakh
 Science City Kolkata | Rating: 4.4 | Reviews: 0.88 lakh
@@ -112,20 +111,7 @@ Haji Ali Dargah | Rating: 4.4 | Reviews: 0.16 lakh
 Chowpatty Beach | Rating: 4.3 | Reviews: 0.05 lakh
 ```
 
-## Key Learnings
-
-Working with large, real-world datasets
-
-Cleaning and standardizing data for analysis
-
-Feature normalization for fair ranking
-
-Designing recommendation logic without machine learning
-
-Handling Pandas warnings and best practices
-
-
 ## Conclusion
 
 Weekend Getaway Ranker demonstrates how structured tourism data can be transformed into meaningful travel recommendations using simple yet effective data engineering techniques. The project emphasizes clarity, transparency, and real-world applicability, making it suitable for academic submission, GitHub review, and interview discussions.
->>>>>>> 5571c3c (project done)
+

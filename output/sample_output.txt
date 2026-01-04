@@ -1,0 +1,36 @@
+Sample output 1
+
+Enter source city: Kolkata
+
+Best Weekend Getaways from Kolkata:
+
+Howrah Bridge | Rating: 4.6 | Reviews: 1.2 lakh
+Dakshineswar Kali Temple | Rating: 4.7 | Reviews: 0.82 lakh
+Science City Kolkata | Rating: 4.4 | Reviews: 0.88 lakh
+Victoria Memorial | Rating: 4.6 | Reviews: 0.73 lakh
+Alipore Zoological Gardens | Rating: 4.3 | Reviews: 0.66 lakh
+
+Sample output 2
+
+Enter source city: Delhi
+
+Best Weekend Getaways from Delhi:
+
+India Gate | Rating: 4.6 | Reviews: 2.6 lakh
+Red Fort | Rating: 4.5 | Reviews: 1.5 lakh
+Qutub Minar | Rating: 4.5 | Reviews: 1.37 lakh
+Lotus Temple | Rating: 4.5 | Reviews: 0.59 lakh
+Akshardham Temple | Rating: 4.6 | Reviews: 0.4 lakh
+
+
+Sample output 3
+
+Enter source city: Mumbai
+
+Best Weekend Getaways from Mumbai:
+
+Gateway of India | Rating: 4.6 | Reviews: 3.6 lakh
+Marine Drive | Rating: 4.5 | Reviews: 1.5 lakh
+Siddhivinayak Temple | Rating: 4.8 | Reviews: 1.05 lakh
+Mahalaxmi Temple | Rating: 4.7 | Reviews: 0.33 lakh
+Chhatrapati Shivaji Maharaj Vastu Sangrahalaya | Rating: 4.6 | Reviews: 0.34 lakh
